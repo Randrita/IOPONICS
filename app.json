@@ -7,5 +7,10 @@
       "HTML5",
       "AI"
     ],
-    "image": "heroku/python"
+    "image": "heroku/python",
+    "buildpacks": [
+      {
+        "url": "https://github.com/raxod502/heroku-buildpack-git-lfs"
+      }
+    ]
   }
