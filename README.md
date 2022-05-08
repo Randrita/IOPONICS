@@ -13,7 +13,7 @@ We basically want to bring down the tedious job that is related to hydroponics u
 ### Technology Stack
 
 ###  **HARDWARE**:
-   *  **Micro processor :** Control the entire system and fetch the data                         from the sensors and send to firebase.
+   *  **Micro Controller :** Control the entire system and fetch the data from the sensors and send to firebase.
    * **Ph sensor :** Sense pH of water solution.
    * **Ultra sonic :** Sense the water level.
    * **DHT 11 sensor : **Sense temperature and humidity around the system.
