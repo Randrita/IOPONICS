@@ -7,7 +7,7 @@ We all know that Micro Irrigation is a modern method of irrigation by which wate
 
 > Hydroponics means the cultivation of plants in nutrient-enriched water, with or without the mechanical support of an inert medium such as sand, gravel, or perlite.
 
-In the upcoming days** by 2050**, we have to increase the food production by **70% **in order to meet the global need for food. And currently hydroponics is also in use but for the long run it needs more technological inputs to make it even better. That is the reason why we are working on** IOPONICS** which is the combination of hydroponics with IOT and AI. 
+In the upcoming days** by 2050**, we have to increase the food production by **70% **in order to meet the global need for food. And currently hydroponics is also in use but for the long run it needs more technological inputs to make it even better. That is the reason why we are working on ** IOPONICS** which is the combination of hydroponics with **IOT and AI**. 
 We basically want to bring down the tedious job that is related to hydroponics using** IOT and AI **so that we can guide the end user smartly about the condition of the crop using **deep learning**. 
 
 ### Technology Stack
